@@ -47,7 +47,7 @@ public class DateCommand extends Command {
 			return;
 		} catch (IOException e) {
 			Loger logWr = new Loger();
-			logWr.logWrite("������ ���������������");
+			logWr.logWrite("lll");
 			return;
 		}		
 
